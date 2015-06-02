@@ -4,7 +4,7 @@
   "description": "New Express & Node Web App for Event Visualization",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node /newExpressApp/bin/wwww"
   },
   "repository": {
     "type": "git",
