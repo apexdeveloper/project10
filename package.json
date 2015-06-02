@@ -1,0 +1,19 @@
+{
+  "name": "project10",
+  "version": "1.0.0",
+  "description": "New Express & Node Web App for Event Visualization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apexdeveloper/project10.git"
+  },
+  "author": "Ramit Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apexdeveloper/project10/issues"
+  },
+  "homepage": "https://github.com/apexdeveloper/project10"
+}
