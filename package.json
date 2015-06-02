@@ -4,12 +4,17 @@
   "description": "New Express & Node Web App for Event Visualization",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/apexdeveloper/project10.git"
   },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
   "author": "Ramit Singh",
   "license": "MIT",
   "bugs": {
